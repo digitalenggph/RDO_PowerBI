@@ -8,7 +8,7 @@ As per BIR's website, RDO's general function is as follows:
 In my POV, this is where you pay your taxes. Cha-ching! 💸💸💸
 
 ## The inspiration 🌈🌈
-I had two employees last fiscal year of 2023 so I have to file for my own BIR Form 1700. <br>
+I had two employees last fiscal year of 2023 so I have to file my BIR Form 1700. <br>
 So if you are like me and you had more than one employer in the previous year, then you must file your own ITR (BIR form 1700). <br>
 
 I am not an accountant so I am not going to elaborate the taxation part haha. <br>
