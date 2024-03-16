@@ -24,7 +24,7 @@ In addition, I'd like to quote this blog that also cites a BIR memorandum (Reven
 My case falls under case II.7. Have a read on it (it's on the link) 😉 <br>
 It states that my RDO should be where my place of residence is. <br>
 
-To cut the personal anecdote short, I have to pay this, but do not know exactly where I should process this kind of stuff. <br>
+To cut the personal anecdote short, I have to pay this tax dues 🥹, but do not know exactly where I should process this kind of stuff. <br>
 Hence, my quest 🚵‍♀️🚵‍♀️ for RDO office mapping 📌 begins. <br>
 
 ## How it should be used:
