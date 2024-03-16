@@ -25,8 +25,29 @@ My case falls under case II.7. Have a read on it (it's on the link) 😉 <br>
 It states that my RDO should be where my place of residence is. <br>
 
 To cut the personal anecdote short, I have to pay this, but do not know exactly where I should process this kind of stuff. <br>
-Hence, my quest for RDO office begins. <br>
+Hence, my quest for RDO office mapping begins. <br>
 
-## 
+## What I visualized
 
+
+
+## Sources used:
+ Here are some data that I used:  <br>
+ 
+**RAW DATA:**
+| Data                  | Type of source          | Link                                                                                              |    
+| --------------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
+| RDO offices list      | Website                 | https://www.bir.gov.ph/index.php/zonal-values.html                                                |
+| RDO offices address   | Website                 | https://www.bir.gov.ph/index.php/contact-us/directory/regional-district-offices.html#22162        |
+| RDO offices latlon    | Website                 | https://www.google.com/maps/                                                                      |
+| Philippine shp file   | shapefile               | https://github.com/altcoder/philippines-psgc-shapefiles                                           | <!--Just updated super recently may need to check sometime-->
+
+
+**PROCESSED DATA:**
+| Data                  | Type of source          | Link                                                                                              |    
+| --------------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
+| RDO offices info      | geojson                 | [DS_rdo_latlon](https://github.com/digitalenggph/RDO_PowerBI/blob/main/DS_rdo_latlon.geojson)     |     
+| RDO X shp file        | geojson                 | [RDO_jurisdiction_simplified](https://github.com/digitalenggph/RDO_PowerBI/blob/main/RDO_jurisdiction_simplified.json)  /   [RDO_jurisdiction_metros](https://github.com/digitalenggph/RDO_PowerBI/blob/main/RDO_jurisdiction_metros.geojson)   |
+
+## Tools used:
 
