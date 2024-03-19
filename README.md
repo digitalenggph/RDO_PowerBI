@@ -42,7 +42,7 @@ If you live in a chill place, say Tagaytay or Palawan then you can still search 
 ![image](https://github.com/digitalenggph/RDO_PowerBI/assets/101250873/52f66b6e-1c5c-43e2-bcbe-90064658be90)
 
 
-The dashboard should show you the RDO of that barangay is office location. <br>
+The dashboard should show you the RDO of that barangay and its office location. <br>
 So....click away! 🔘🔼🔽✅🔳🔲
 
 
